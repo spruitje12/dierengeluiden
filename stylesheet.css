@@ -1,0 +1,58 @@
+.dieren{
+    position: absolute;
+    width: 300px;
+    left: 500px;
+    top: 300px;
+}
+
+.dieren2{
+    position: absolute;
+    width: 300px;
+    left: 1000px;
+    top: 300px;
+}
+
+.boek{
+    background-image: url(afbeelding/openboek.avif);
+    width: 1200px;
+    margin-left: 280px;
+    margin-top: 50px;
+}
+
+.teksthond{
+    position: absolute;
+    left: 470px;
+    top: 180px;
+    right: 900px;
+    font-family: fantasy;
+    font-size: 120%;
+}
+
+.tekstkat{
+    position: absolute;
+    left: 970px;
+    top: 180px;
+    right: 420px;
+    font-family: fantasy;
+    font-size: 120%;
+}
+
+.paginawissel{
+    padding: 20px;
+    text-decoration: none;
+    border-style: double;
+    color: brown;
+    position: absolute;
+    left: 1500px;
+    top: 500px;
+}
+
+.paginaterug{
+    padding: 20px;
+    text-decoration: none;
+    border-style: double;
+    color: brown;
+    position: absolute;
+    left: 150px;
+    top: 500px;
+}
